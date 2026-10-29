@@ -10,4 +10,11 @@ defend the castle for android
 
 
 
-it's on the wall
+it's on the wall  
+
+
+
+<img src="recording2.gif" style="width:480px;">  
+
+
+
